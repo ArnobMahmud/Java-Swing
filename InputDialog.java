@@ -3,7 +3,7 @@
    Mail : arnob.tech.me @ gmail.com
 */
 
-package swing;
+package swing; 
 import javax.swing.JOptionPane;
 
 public class InputDialog  {
