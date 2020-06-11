@@ -1,3 +1,9 @@
+/*
+    Author : Arnob Mahmud
+    
+    Mail : arnob.tech.me@gmail.com
+*/
+
 // Java program to create a simple calculator 
 // with basic +, -, /, * using java swing elements 
   
