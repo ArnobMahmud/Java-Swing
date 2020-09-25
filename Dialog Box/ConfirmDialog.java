@@ -4,7 +4,7 @@
    Mail : arnob.tech.me @ gmail.com
 */
 
-package Dialog Box;
+// package Swing;
 import javax.swing.JOptionPane;
 
 public class ConfirmDialog {
